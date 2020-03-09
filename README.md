@@ -1,2 +1,4 @@
 # Compute-Total-weekly-Pay
-Brief Python script to prompt for hours worked, hourly rate, and overtime multiplier to compute total pay
+Based on a University of Michigan Coursera course.
+
+This is a brief Python script to prompt for hours worked, hourly rate, and overtime multiplier to compute total pay.
